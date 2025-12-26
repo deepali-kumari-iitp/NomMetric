@@ -4,6 +4,7 @@
 |Mani kanta|MANI8148|IIITA|IIT2024131|1|
 | Omdeep | omicoded19 | IIITA | IEC2024059 | 1 |
 | Varad Singhal | VaradSinghal | SRMIST | RA2411003011798 | 1 |
+| Kushagra Sahu | KushagraSahu-01|IIITA|IIT2025069|1|
 | Ishan Raj Singh | ishanrajsingh | Amity, Noida | A2305225427 | 1 |
 |Rushal verma |Rushalverma   | IIITA   | IIT2024045     | 1 |
 | Satwik Santosh | DeadlySatwik | IIITA | IIT2024084 | 1 |
