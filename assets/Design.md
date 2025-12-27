@@ -46,7 +46,6 @@ Currently, this file contains:
 
 It **does not** contain any details regarding visual designs yet.
 
----
 
 ## Submission Rules (Important)
 
