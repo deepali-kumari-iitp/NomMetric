@@ -29,5 +29,6 @@
 | Apoorv Mittal | Apoorv012 | JIIT Noida | 23103331 | 1 |
 | Amogh S.      | MogaS811. | IIIT A.    | IIT2025290 | 1 |
 | Dharaneesh S L | Dharaneeshsl | PSGCT | 24Z218 | 1 |
+| Krishna Sikheirya | Krishna200608 | IIIT Allahabad | IIT2023139 | 1 |
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
